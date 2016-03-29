@@ -8,11 +8,11 @@ import (
 	"golang.org/x/net/context"
 
 	"github.com/iotalabs/pioneer"
-	"github.com/iotalabs/pioneer/plug/body"
-	"github.com/iotalabs/pioneer/plug/close"
-	"github.com/iotalabs/pioneer/plug/limit"
-	"github.com/iotalabs/pioneer/plug/router"
-	"github.com/iotalabs/pioneer/plug/static"
+	"github.com/iotalabs/plug/body"
+	"github.com/iotalabs/plug/close"
+	"github.com/iotalabs/plug/limit"
+	"github.com/iotalabs/plug/router"
+	"github.com/iotalabs/plug/static"
 	"github.com/iotalabs/pioneer/util"
 )
 
