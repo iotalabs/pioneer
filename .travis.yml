@@ -1,8 +1,12 @@
 language: go
 
-install:
-    - go get github.com/didip/tollbooth
-    - go get github.com/mitchellh/mapstructure
-
 go:
-    1.6
+  - 1.6
+
+install:
+  - go get github.com/didip/tollbooth
+  - go get github.com/mitchellh/mapstructure
+  - go get github.com/iotalabs/plug
+
+script:
+  - go test -v ./...
