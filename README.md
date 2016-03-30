@@ -1,17 +1,27 @@
-# pioneer
+# Pioneer
 
 [![Build Status](https://travis-ci.org/iotalabs/pioneer.svg?branch=master)](https://travis-ci.org/iotalabs/pioneer)
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/iotalabs/pioneer)
+[![Language](https://img.shields.io/badge/language-Go-orange.svg)](https://github.com/iotalabs/pioneer)
+[![Copyright](https://img.shields.io/badge/copyright-Iota%20Labs-red.svg)](https://github.com/iotalabs/pioneer)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iotalabs/pioneer)
 
-JSON Restful API with context.Context in mind.
+A micro framework that for distributed, real-time, failover.
 
-## Plug structure
-![Image of Plug](./doc/arch.png)
+## Architecture
 
-### TODO
-- [ ] add realtime plug (like phoenix channel)
-- [ ] add docs
-- [ ] add a project site (github pages)
-- [ ] add a guide
-- [ ] add session plug
-- [ ] add more...
+![Architecture](./doc/arch.png)
+
+## Features
+
+- [x] Plug
+
+## TODO
+
+- [ ] Database Repository
+- [ ] Failover
+- [ ] Real-time that like Phoenix Channel
+- [ ] Distributed
+- [ ] Supervisor
+- [ ] Discoverer
+- [ ] Configurator
