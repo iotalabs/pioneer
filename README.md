@@ -1,5 +1,7 @@
 # Pioneer
 
+[![Join the chat at https://gitter.im/iotalabs/pioneer](https://badges.gitter.im/iotalabs/pioneer.svg)](https://gitter.im/iotalabs/pioneer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/iotalabs/pioneer.svg?branch=master)](https://travis-ci.org/iotalabs/pioneer)
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/iotalabs/pioneer)
 [![Language](https://img.shields.io/badge/language-Go-orange.svg)](https://github.com/iotalabs/pioneer)
